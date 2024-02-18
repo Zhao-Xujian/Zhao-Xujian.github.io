@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xujian Zhao"
+title: "Xujian Zhao（赵旭剑）"
 author_profile: true
 redirect_from: 
   - /about/
