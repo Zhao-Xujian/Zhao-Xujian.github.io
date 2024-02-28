@@ -22,13 +22,14 @@ repository               : "Zhao-Xujian/Zhao-Xujian.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xujian Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : # "Short biography for the left-hand sidebar"
+  address          : "School of Computer Science and Technology, Southwest University of Science and Technology, Mianyang, China 621010"
+  office           : "Room 2-03, No.6E Building, East Campus"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jasonzhaoxj AT swust.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
